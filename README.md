@@ -8,3 +8,4 @@ git operations:
 - git commit -m 'description' : add commit info
 - git remote 远程仓库操作 add origin git@ 项目地址 取名为origin
 - git push -u origin master 将origin push到项目的master分支中 之后的修改可使用git push？
+尽量在本地创建readme文件
